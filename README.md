@@ -1,4 +1,4 @@
-### ubt_caffe
+### mini_caffe
 
 
 ### Build on Linux
